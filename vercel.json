@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/",
-      "destination": "/idara/portfolio/joy.html"
-    }
-  ]
-}
